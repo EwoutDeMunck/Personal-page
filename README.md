@@ -14,7 +14,7 @@ To install and run the project, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project's root directory.
-3. Install the project dependencies by running the following command:
+3. Install the project dependencies by running the following command: npm i
    
 ## Run the project
 npm run dev -- --host <your-hostname> 
