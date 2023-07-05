@@ -7,7 +7,15 @@ Before getting started with the project, make sure you have the following prereq
 
 - [Node.js](https://nodejs.org) - JavaScript runtime environment
 
+
 ## Installation
 
--npm -i
--npm run dev -- --host 
+To install and run the project, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project's root directory.
+3. Install the project dependencies by running the following command:
+   
+## Run the project
+npm run dev -- --host <your-hostname> 
+   
