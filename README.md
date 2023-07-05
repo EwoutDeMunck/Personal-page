@@ -9,5 +9,5 @@ Before getting started with the project, make sure you have the following prereq
 
 ## Installation
 
-npm -i
-npm run dev -- --host 
+-npm -i
+-npm run dev -- --host 
